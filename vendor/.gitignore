@@ -1,3 +1,4 @@
-*.*
+bootstrap/*
+jquery/*
+popper.js/*
 !.gitignore
-!./entypo/*
