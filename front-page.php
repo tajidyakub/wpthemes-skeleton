@@ -1,6 +1,6 @@
 <?php
 /**
- * The main template file
+ * The front page template file
  * @link https://codex.wordpress.org/Template_Hierarchy
  *
 */

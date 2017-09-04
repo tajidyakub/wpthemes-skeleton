@@ -3,16 +3,19 @@ Kerangka untuk pengembangan Wordpress Template menggunakan Twitter Bootstrap v.4
 
 ## Instalasi
 
-Clone repository
+- Clone repository
+
 ```
 git clone
 cd 
 ```
 
-Instalasi paket di lokal working folder menggunakan yarn
+- Instalasi paket di lokal working folder menggunakan yarn
 
 ```
 yarn run newinstall
 ```
+
+- Sesuaikan informasi mengenai template di file style.css
 
 
