@@ -11,7 +11,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="stylesheet" href="<?php bloginfo('template_url');?>/assets/styles/bootstrap.css">
-	<link rel="stylesheet" href="<?php bloginfo('template_url');?>/vendor/entypo/style.css">
+	<link rel="stylesheet" href="<?php bloginfo('template_url');?>/assets/styles/entypo.css">
 	<link rel="stylesheet" href="<?php bloginfo('template_url');?>/assets/styles/style.css">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 
